@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace PaymentsManages.Controllers
+namespace PaymentsManager.Controllers
 {
     [ApiController]
     [Route("[controller]")]
@@ -30,4 +30,5 @@ namespace PaymentsManages.Controllers
             .ToArray();
         }
     }
+
 }

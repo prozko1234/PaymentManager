@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\",
+  "WorkspaceRootPath": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanages\\paymentsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|solutionrelative:paymentsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanages\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanagesback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanages\\paymentsmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|solutionrelative:paymentsmanager.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanagesback\\paymentsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|solutionrelative:paymentsmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanagesback\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|d:\\projects\\paymentsmanages\\paymentsmanagesback\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C129C616-A8E0-4BEC-A08C-7B46CFC6DC4D}|PaymentsManager.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-20T18:43:10.556Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T18:42:05.165Z"
+              "WhenOpened": "2024-04-20T21:59:33.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PaymentsManager.http",
-              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\PaymentsManager.http",
-              "RelativeDocumentMoniker": "PaymentsManager.http",
-              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\PaymentsManager.http",
-              "RelativeToolTip": "PaymentsManager.http",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-04-20T18:41:53.394Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T18:43:10.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:42:05.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PaymentsManager.csproj",
-              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\PaymentsManager.csproj",
+              "DocumentMoniker": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\PaymentsManager.csproj",
               "RelativeDocumentMoniker": "PaymentsManager.csproj",
-              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\PaymentsManager.csproj",
+              "ToolTip": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\PaymentsManager.csproj",
               "RelativeToolTip": "PaymentsManager.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-20T18:41:36.922Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

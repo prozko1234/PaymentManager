@@ -1,4 +1,4 @@
-namespace PaymentsManages
+namespace PaymentsManager
 {
     public class WeatherForecast
     {

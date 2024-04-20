@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\PaymentsManager.csproj",
+      "projectUniqueName": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\PaymentsManager.csproj",
       "projectName": "PaymentsManager",
-      "projectPath": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\PaymentsManager.csproj",
+      "projectPath": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\PaymentsManager.csproj",
       "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJECTS\\PaymentsManages\\PaymentsManages\\obj\\",
+      "outputPath": "D:\\PROJECTS\\PaymentsManages\\PaymentsManagesBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
